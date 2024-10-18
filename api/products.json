@@ -64,10 +64,10 @@
             "isNew": true,
             "isTop": false,
             "ratingCount": 23,
-            "price": "76.99",
+            "price": 76.99,
             "isFeatured": true,
             "isBestSeller": true,
-            "oldPrice": "109.00"
+            "oldPrice": 109.00
         },
         {
             "id": 2,
@@ -132,10 +132,10 @@
             "isNew": false,
             "isTop": true,
             "ratingCount": 14,
-            "price": "83.99",
+            "price": 83.99,
             "isFeatured": true,
             "isBestSeller": true,
-            "oldPrice": "109.00"
+            "oldPrice": 109.00
         },
         {
             "id": 3,
@@ -202,7 +202,7 @@
             "isNew": true,
             "isTop": false,
             "ratingCount": 27,
-            "price": "89.99",
+            "price": 89.99,
             "isFeatured": true,
             "isBestSeller": true,
             "oldPrice": null
@@ -272,7 +272,7 @@
             "isNew": false,
             "isTop": true,
             "ratingCount": 8,
-            "price": "119.99",
+            "price": 119.99,
             "isFeatured": true,
             "isBestSeller": true,
             "oldPrice": null
@@ -340,7 +340,7 @@
             "isNew": true,
             "isTop": false,
             "ratingCount": 35,
-            "price": "54.99",
+            "price": 54.99,
             "isFeatured": true,
             "isBestSeller": true,
             "oldPrice": null
@@ -408,7 +408,7 @@
             "isNew": false,
             "isTop": true,
             "ratingCount": 9,
-            "price": "89.99",
+            "price": 89.99,
             "isFeatured": true,
             "isBestSeller": true,
             "oldPrice": null

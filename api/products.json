@@ -290,7 +290,7 @@
             "tags": [
                 "Lightweight",
                 "Comfortable",
-                "dresses"
+                "Dresses"
             ],
             "name": "Summer Dress",
             "colors": [
@@ -356,13 +356,11 @@
                 "44"
             ],
             "tags": [
-                "Hiking Boots",
-                "Waterproof",
+                "Lightweight",
                 "Comfortable",
-                "Flexible",
-                "Stylish"
+                "Dresses"
             ],
-            "name": "Seeker Hiking Bootss",
+            "name": "Summer Dress Gray",
             "colors": [
                 {
                     "id": 1,

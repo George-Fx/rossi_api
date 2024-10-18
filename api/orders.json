@@ -2,7 +2,7 @@
     "orders": [
         {
             "id": 456345,
-            "date": "Feb 02, 2024 at 8:32 PM",
+            "date": "10 July",
             "status": "shipping",
             "total": 129.98,
             "products": [
@@ -26,7 +26,7 @@
         },
         {
             "id": 456346,
-            "date": "Feb 07, 2024 at 8:32 PM",
+            "date": "10 July",
             "status": "delivered",
             "total": 129.98,
             "products": [
@@ -50,7 +50,7 @@
         },
         {
             "id": 456347,
-            "date": "Feb 07, 2024 at 8:32 PM",
+            "date": "10 July",
             "status": "canceled",
             "total": 129.98,
             "products": [
